@@ -2885,6 +2885,7 @@ Usage (In Ghost editor):
 
 /* 12. Dark Mode
 /* ---------------------------------------------------------- */
+/*
 @media (prefers-color-scheme: dark) {
     body {
         color: rgba(255, 255, 255, 0.75);
@@ -3112,3 +3113,4 @@ Usage (In Ghost editor):
         color: color-mod(var(--green) l(+5%) s(-5%));
     }
 }
+*/
